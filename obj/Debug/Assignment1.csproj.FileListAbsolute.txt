@@ -1,0 +1,7 @@
+C:\Users\Krister\Downloads\Assignment\Assignment\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Krister\Downloads\Assignment\Assignment\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Krister\Downloads\Assignment\Assignment\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Krister\Downloads\Assignment\Assignment\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Krister\Downloads\Assignment\Assignment\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Krister\Downloads\Assignment\Assignment\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\Krister\Downloads\Assignment\Assignment\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
